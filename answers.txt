@@ -1,0 +1,35 @@
+List of Linux commands:
+pwd - shows current path
+mkdir - make directory
+cd - change directory 
+cat - displays contents of a file
+ls - shows files in current directory
+pico - opens pico / can create files 
+
+List of Git commands:
+git config - sets login info for git
+git clone - clones a repo
+git status - sees if theres changes in local repo that are not in Github  repo
+git add - adds a file to be committed
+git commit - commits the changes that were added by git add
+git push - pushes changes from local repo to Github repo
+
+i. List the rules for collaboration on homework assignments
+"Similarly, you can discuss your ideas with your class mates for homework assignments.
+However, do not do your homework with individuals outside of your group. You are welcome to use
+concepts that were not covered in class, which you might already know or found online, but you must be
+able to verbally explain your solution and show thorough understanding of the concepts you used, when
+asked."
+
+ii. List the rules for consulting external references for homework assignments
+"You can consult any available resources (printed or online) when doing homework assignments, except
+generative AI tools, like ChatGPT. Always read and understand the material you find. Then put it aside and
+start writing your own answer. This ensures that the work you submit is different enough that it becomes
+your own."
+
+iii. What is the penalty for submitting late assignments?
+"late assignments will be accepted; however, there will be a penalty of 10% per day for submitting late assignments. Exceptions
+will be granted on individual basis, and only for extreme circumstances."
+
+iv. What is the penalty for missing classes? 
+"Students are expected to attend class. In addition to lectures discussing new materials, you will work in pairs on hands on exercises. I expect students to engage in discussions, answer questions, and ask questions. Part of your grade is based on your engagement and active participation during the semester. There are multiple ways to demonstrate participation."
